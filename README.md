@@ -8,8 +8,7 @@ Robotics Software developer with the ability to write powerful code in C++ and P
 
 * 🌍  I'm based in Graz
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/amardeep-verma/)
-* ✉️  You can contact me at [amardeep.verrma82@gmail.com](mailto:amardeep.verrma82@gmail.com)
-* 🧠  I'm learning ROS2\_control
+* ✉️  You can contact me at [amardeepverma113@gmail.com](mailto:amardeepverma113@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
